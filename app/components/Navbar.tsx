@@ -29,7 +29,7 @@ export function Navbar() {
       </div>
       <div className="flex gap-x-5">
         <p className="hidden lg:block font-medium text-[#36485C] pr-[56px]">
-          Open an Account
+          Open an Account!
         </p>
         <div className="flex gap-x-2 items-center">
           <Image src={User} alt="User Profile" />
